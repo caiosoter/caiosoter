@@ -1,4 +1,4 @@
-### Caio Sóter - Data Scientist
+### Caio Sóter - (Data Scientist Intern) 
 
 <!--
 **caiosoter/caiosoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Caio Sóter and I am current an Electrical Engineering student at Federal University of Pernambuco. I have been switching careers to Data Science since I started working with python and Machine learning in the beginning of my undergraduation. I love solving problems using data and Machine Learning, especialy problems related to energy and electrical engineering.
+## I am current an Electrical Engineering student at Federal University of Pernambuco:
+ 
+- 📊 Solving problems using data and Machine Learning, especialy problems related to energy and electrical engineering. 
+- 📚 Learning new subjects and technologies related to Data Science and Artificial Intelligence.
+
+## About me:
+- I	Love playing video games. 🎮
+- Passionate about reading books (especialy Sci-Fi). 📖	
  
 
