@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Caio Sóter and I am current an Electrical Engineering student at Federal University of Pernambuco. I have been switching careers to Data Science since I started working with python and Machine learning in the beginning of my undergraduation. I love solving problems using data and Machine Learning, especialy problems related to energy and electrical engineering.
+ 
+
