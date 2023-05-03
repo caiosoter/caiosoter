@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 ## About me:
 - I	Love playing video games. 🎮
-- Passionate about reading books (especialy Sci-Fi). 📖	
+- Passionate about reading books (especialy Sci-Fi). 📖
+
+## Connect with me:
+
+## Tools and Tecnologies:
  
 
