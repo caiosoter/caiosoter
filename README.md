@@ -1,10 +1,10 @@
 ### Caio Sóter - (Data Scientist Intern)
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
- - ## Working on:
+ - ### Working on:
    - New projects related to photovoltaic systems.
 
-- ## Learning about:
+- ### Learning about:
   - 📚 New subjects and technologies related to Data Science and Artificial Intelligence.
   - 📊 Solving problems using data and Machine Learning, especialy problems related to energy and electrical engineering.
 
