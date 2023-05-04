@@ -2,11 +2,11 @@
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
  - ### Working on:
-   - New projects related to photovoltaic systems.
+   - New project related to Eolic systems.
 
 - ### Learning about:
-  - 📚 New subjects and technologies related to Data Science and Artificial Intelligence.
-  - 📊 Solving problems using data and Machine Learning, especialy problems related to energy and electrical engineering.
+  - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
+  - 📊 Solving problems using data and Machine Learning, especialy problems on the subject of energy.
 
 ## Tools and Technologies:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" height=30 width=30><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height=25 width=37>
