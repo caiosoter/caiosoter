@@ -19,6 +19,7 @@
 ## About me:
 - I	Love playing video games. 🎮
 - Passionate about reading books (especialy Sci-Fi). 📖
+- Also interested in Astronomy and Astrophysics. 🌌
 
 ## How to connect with me:
 [<img src="https://user-images.githubusercontent.com/86934400/236183151-e155a544-d5aa-42f2-8d54-a14e5ac0d801.png" height="20" width="20">](https://www.linkedin.com/in/caio-soter/)
