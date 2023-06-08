@@ -3,7 +3,6 @@
 
  - ### Working on:
    - New project related to Eolic systems.
-   - Project about Appliance Energy Prediction.
 
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
