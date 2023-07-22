@@ -2,7 +2,7 @@
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
  - ### Working on:
-   - Project related to Hazard Asteroid classification.
+   - Hazard Asteroid classification project.
 
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
