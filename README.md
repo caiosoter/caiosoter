@@ -1,4 +1,4 @@
-### Caio Sóter - (Data Scientist Intern)
+### Caio Sóter - Data Scientist
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
  - ### Working on:
