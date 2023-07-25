@@ -3,6 +3,8 @@
 
  - ### Working on:
    - Hazard Asteroid classification project.
+   - MotorFind project.
+   - Wind Power prediciton project.
 
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
