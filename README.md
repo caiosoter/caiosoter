@@ -3,7 +3,7 @@
 
  - ### Working on:
    - Hazard Asteroid classification project.
-   - MotorFind project.
+   - SignToText project.
    - Wind Power prediciton project.
 
 - ### Learning about:
