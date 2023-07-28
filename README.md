@@ -4,7 +4,7 @@
  - ### Working on:
    - Hazard Asteroid classification project.
    - SignToText project.
-   - Wind Power prediciton project.
+   - Wind Power forecasting project.
 
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
