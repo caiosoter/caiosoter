@@ -2,7 +2,6 @@
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
  - ### Working on:
-   - Hazard Asteroid classification project.
    - SignToText project.
    - Wind Power forecasting project.
 
