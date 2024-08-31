@@ -2,7 +2,7 @@
 ## I am current an Electrical Engineering student at Federal University of Pernambuco:
 
  - ### Working on:
-   - Book Advisor project
+
 
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
