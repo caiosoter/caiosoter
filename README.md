@@ -1,5 +1,5 @@
 ### Caio Sóter - Data Scientist
-## I am current an Computer Sciente Master's student at Institute of Mathematics and Statistics at University of São Paulo:
+## I am current a Computer Sciente Master's student at Institute of Mathematics and Statistics at University of São Paulo:
 
  - ### Working on:
 
