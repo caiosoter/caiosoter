@@ -1,9 +1,6 @@
 ### Caio Sóter - Data Scientist
 ## I am current a Computer Sciente Master's student at Institute of Mathematics and Statistics at University of São Paulo:
 
- - ### Working on:
-
-
 - ### Learning about:
   - 📚 New subjects and technologies regarding Data Science and Artificial Intelligence.
   - 📊 Solving problems using data and Machine Learning, especialy problems on the subject of energy.
